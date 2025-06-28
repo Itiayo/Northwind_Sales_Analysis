@@ -1,9 +1,9 @@
-This capstone project focuses on analyzing the Northwind database, a business dataset, using Python.
+This capstone project focuses on analyzing the Northwind database, a sales dataset, using Python.
 The project is divided into two key parts:
 
 Business Data Analysis – Exploring customer, product, and sales behavior using SQL and data visualization.
 
-Sales Forecasting – Applying time series models to forecast future sales trends and provide actionable business insights.
+Sales Forecasting – Applying time series models to forecast future sales trends 
 
 🎯 Objectives
 
@@ -40,7 +40,7 @@ Products
 Categories
 
 
-🔍 Part 1: Business Data Analysis
+🔍 Part 1: Sales Analysis
 
 Top Customers by Sales
 
@@ -78,14 +78,6 @@ RMSE (Root Mean Squared Error)
 
 MAPE (Mean Absolute Percentage Error)
 
-✅ Best model used for forecast
-
-📊 Key Insights & Recommendations
-
-Identified seasonal product trends and customer segments driving sales.
-
-Recommended inventory adjustments based on projected demand.
-
-Highlighted growth opportunities using sales predictions.
+✅ Best model used for forecast is the ARIMA model
 
 
